@@ -27,7 +27,7 @@ Clique para ver o documento:
       * [User Story 1](documentos\Epic-userStory.pdf)
       * [User Story 2](documentos\Epic-userStory2.pdf)
  * Documentos de testes gerados no processo de estudo
-      * [Mind-map](documentos\Visualização de Resumo de Vendas para Administradores.pdf)
+      * [Mind-map](documentos\Resumo_de_Vendas_para_Administradores.pdf)
       * [Casos de teste usando step-by-step](documentos\relatório-teste.pdf)
       * [Casos de teste usando BDD](documentos\relatório-teste2.pdf)
 
