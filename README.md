@@ -7,10 +7,10 @@
 <h1 align="center">O Dia a Dia de um QA</h1>
 
 <!--ts-->
-   * [Sobre](#sobre)
-   * [Documentação](#documentação)
-   * [Créditos](#créditos)
-   * [Autora](#autora)
+- [Sobre](#sobre)
+- [Pré-requisitos](#pré-requisitos)
+- [Créditos](#créditos)
+- [Autora](#autora)
 <!--te-->
 
 
@@ -18,14 +18,18 @@
 
 Projeto para praticar scrum, com detalhes para testes usando Jira.
 
-Pré-requisitos:
- * [Plano de fluxo de trabalho de desenvolvimento]()
- * [Ciclo de vida do bug]()
- * [Documento contendo 2 user stories]()
- * [Documetnos de testes gerados no processo de estudo]()
-      * [Mind-map]()
-      * [Casos de teste usando step-by-step]()
-      * [Casos de teste usando BDD]()
+## Pré-requisitos
+
+Clique para ver o documento:
+
+ * [Plano de fluxo de trabalho de desenvolvimento](documentos\Fluxo_de_trabalho.pdf)
+ * Documento contendo user stories
+      * [User Story 1](documentos\Epic-userStory.pdf)
+      * [User Story 2](documentos\Epic-userStory2.pdf)
+ * Documentos de testes gerados no processo de estudo
+      * [Mind-map](documentos\Visualização de Resumo de Vendas para Administradores.pdf)
+      * [Casos de teste usando step-by-step](documentos\relatório-teste.pdf)
+      * [Casos de teste usando BDD](documentos\relatório-teste2.pdf)
 
 ## Créditos
 
